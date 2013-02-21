@@ -1,3 +1,0 @@
-# Example
-
-    $("#hoge img, #jfoo img").imageLazyLoader({ threshold: 200 });
